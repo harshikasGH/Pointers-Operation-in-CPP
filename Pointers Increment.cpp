@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Harshika Kamwal
+// 25070123508
 
 #include<iostream>
 using namespace std;
@@ -53,8 +53,6 @@ int main() {
 // New Research Project in Pipeline? (1: Yes, 0: No)
 // 0
 // Profit generated: Rs 200000
-
 // Current salary: Rs 20000
-
 // Eligible for increment.
 // Updated Salary: 24000
